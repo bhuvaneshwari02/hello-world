@@ -1,0 +1,20 @@
+git init - to set up git environment in local for first time
+git clone - to clone the cloud repo to local system by giving http link inside quote.
+git add - to add changes
+git commit -m -> to commit changes with message
+git push - to push the changes to cloud repo
+git pull - to pull changes from cloud repo
+git diff - to compare changes in code
+git status - to check staged and unstaged changes 
+git stash - while conflict if you to delete any changes made then you have to give git stash
+git stash pop - to get the recently stashed or deleted changes
+git reset - to unstage to the staged commits
+
+Branching
+
+git branch - to see the list of branches
+git branch -a -> to see list of branches including branches created in cloud
+git checkout -b "branchname" -> to create a new branch
+git checkout "branchname" - to change to a particular branch
+git branch -m "newbranchname" - to modify a branch name
+
